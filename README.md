@@ -4,7 +4,7 @@
 
 ## Información de la estudiante
 
-**Emilisno Villalobos García** · **23212243** · **l23212243@tectijuana.edu.mx**
+**Emiliano Villalobos García** · **23212243** · **l23212243@tectijuana.edu.mx**
 
 **Asignatura:** Modelado de Sistemas Fisiológicos (IBF-1020)  
 **Programa:** Ingeniería Biomédica

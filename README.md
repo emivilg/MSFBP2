@@ -1,6 +1,6 @@
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/)
 
-# Práctica 2 — Modelo Windkessel de cuatro elementos del sistema cardiovascular
+# Práctica 2 — Sistema cardiovascular
 
 ## Información de la estudiante
 

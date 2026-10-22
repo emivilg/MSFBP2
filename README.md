@@ -204,41 +204,21 @@ $$
 
 ### Función de transferencia
 
-La impedancia equivalente de la rama formada por $Z$ y $L$ es:
+La impedancia equivalente de la rama entre $P_a(t)$ y $P_p(t)$ es:
 
-$$
-Z_{\mathrm{serie}}(s)=Z\parallel Ls
-=
-\frac{ZLs}{Z+Ls}.
-$$
+$$Z_{\mathrm{serie}}(s)=Z\parallel Ls=\frac{ZLs}{Z+Ls}$$
 
 La impedancia de carga formada por $R$ y $C$ es:
 
-$$
-Z_{\mathrm{carga}}(s)=R\parallel\frac{1}{Cs}
-=
-\frac{R}{RCs+1}.
-$$
+$$Z_{\mathrm{carga}}(s)=R\parallel\frac{1}{Cs}=\frac{R}{RCs+1}$$
 
 Aplicando el divisor de impedancias:
 
-$$
-\frac{P_p(s)}{P_a(s)}
-=
-\frac{Z_{\mathrm{carga}}(s)}
-{Z_{\mathrm{serie}}(s)+Z_{\mathrm{carga}}(s)}.
-$$
+$$\frac{P_p(s)}{P_a(s)}=\frac{Z_{\mathrm{carga}}(s)}{Z_{\mathrm{serie}}(s)+Z_{\mathrm{carga}}(s)}$$
 
 Al simplificar:
 
-$$
-\boxed{
-G(s)=\frac{P_p(s)}{P_a(s)}
-=
-\frac{LRs+RZ}
-{CLRZs^2+L(Z+R)s+RZ}
-}
-$$
+$$\boxed{G(s)=\frac{P_p(s)}{P_a(s)}=\frac{LRs+RZ}{CLRZs^2+L(Z+R)s+RZ}}$$
 
 El cero finito del sistema se localiza en:
 

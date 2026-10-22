@@ -1,6 +1,6 @@
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=DrPaulValle/MSFBP0)
 
-# Práctica 2 — Modelo Windkessel de cuatro elementos del sistema cardiovascular
+# Práctica 2 — Sistema cardiovascular
 
 Repositorio académico de la asignatura **Modelado de Sistemas Fisiológicos (IBF-1020)** del programa de **Ingeniería Biomédica**, Tecnológico Nacional de México / Instituto Tecnológico de Tijuana. La práctica desarrolla el análisis, simulación y control *in silico* de un modelo Windkessel de cuatro elementos para representar la dinámica vascular arterial.
 
